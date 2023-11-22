@@ -47,6 +47,7 @@ public class JavaFXApplication1 extends Application {
         launch(args);
         System.out.println();
         System.out.println();
+        System.out.println();
     }
      
     
