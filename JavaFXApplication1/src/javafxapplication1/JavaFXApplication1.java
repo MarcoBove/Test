@@ -46,6 +46,7 @@ public class JavaFXApplication1 extends Application {
     public static void main(String[] args) {
         launch(args);
         System.out.println();
+        System.out.println();
     }
      
     
