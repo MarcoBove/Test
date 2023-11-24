@@ -9,6 +9,7 @@ package project.View;
  * @author marco
  */
 
+//trololo
 
 public class NewMain {
 
@@ -20,6 +21,7 @@ public class NewMain {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("primo");
+        System.out.println("secondo");
     }
     
 }
